@@ -1,2 +1,2 @@
-# our_project
+SHIZUKA # our_project
 git練習用
